@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "74HC00D_653")(type "KiCad")(uri "C:/GIT/BSPD/Documents/74HC00D_653")(options "")(descr ""))
+)
